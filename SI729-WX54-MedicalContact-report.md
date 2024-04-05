@@ -28,7 +28,7 @@ MedicalContact es una aplicación web que busca transformar la experiencia de at
 
 | Nombre        | Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
-|||| ![Nombre](link de foto)   
+|Raúl Ronaldo Quispe Erasmo|u20211b682|Me considero una persona entusiasta y creativa, capaz de aportar varias ideas y conocimientos con el grupo. Cuento con buena experiencia en lenguajes de programación como C + +, HTML y CSS, además de un buen nivel de redacción. Me gusta socializar y siempre trato de mejorar como persona cada día.| ![Nombre](link de foto)   
 
 | Nombre        | Código de Alumno/Carrera | Descripción del Alumno | Foto tamaño carnet |
 |---------------|------------------|------------------------|--------------------|
