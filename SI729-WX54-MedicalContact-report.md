@@ -99,33 +99,42 @@ Tras analizar a nuestros competidores en el campo de la gestión de atención m�
 **Fortalezas de los competidores**:                                                                                  
 - Agilización de procesos y recompensas al cliente.
 - Sistema de ventas en línea y control del negocio.
-- Localización de médicos y conocimiento de promociones.                                    
+- Localización de médicos y conocimiento de promociones.
+
 **Nuestras fortalezas**:                                                                                    
 - Facilidad y flexibilidad del sitio web para beneficio del usuario.
 - Programa de bonificación para pacientes a través de puntos canjeables.
-- Gestión de inventario médico para facilitar el trabajo de los profesionales.                                          
+- Gestión de inventario médico para facilitar el trabajo de los profesionales.
+                                          
 **Estrategias para superar a nuestros competidores**:                                                                      
 - Actualización constante de la aplicación para mejorar la experiencia del usuario.
-- Implementación de nuevas funcionalidades para beneficio de pacientes y médicos.                                                  
+- Implementación de nuevas funcionalidades para beneficio de pacientes y médicos.
+                                                  
 **Tácticas para superar a nuestros competidores**:                                                                          
-- Implementación de un sistema de notificaciones y novedades para motivar la participación de los usuarios.                          
+- Implementación de un sistema de notificaciones y novedades para motivar la participación de los usuarios.
+                          
 **Debilidades de los competidores**:                                                                                    
 - Baja tasa de interacción de los usuarios. 
 - Soporte de bajo nivel de asistencia.
-- No disponible en ciertas regiones geográficas.                                              
+- No disponible en ciertas regiones geográficas.
+                                              
 **Nuestras debilidades**:                                                                              
-- Sistema de filtrado de búsquedas.                                                                        
+- Sistema de filtrado de búsquedas.
+                                                                        
 **Estrategias para diferenciarnos de nuestros competidores**:                                                    
 - Mantenimiento de una comunicación constante con los usuarios para mejorar su experiencia. 
-- Implementación de soportes y actualizaciones frecuentes.                                                         
+- Implementación de soportes y actualizaciones frecuentes.
+                                                         
 **Tácticas para diferenciarnos de nuestros competidores**:                                                              
 - Implementación de un agente de soporte para resolver dudas de los usuarios. 
 - Actualizaciones constantes para mejorar la experiencia del usuario. 
-- Implementación de un sistema de filtrado de búsquedas para facilitar la búsqueda de médicos y citas.                                                       
+- Implementación de un sistema de filtrado de búsquedas para facilitar la búsqueda de médicos y citas.
+                                                       
 **Oportunidades de los competidores**:                                                                              
 - Integración de más funcionalidades publicitarias. 
 - Incremento del número de usuarios. 
-- Crecimiento del interés por la atención médica en diversas regiones.                                                                       
+- Crecimiento del interés por la atención médica en diversas regiones.
+                                                                       
 **Nuestras oportunidades**:                                                                                        
 - Crecimiento del público interesado en la aplicación. 
 - Facilidad de comprensión de la aplicación para los usuarios.                                                                               
