@@ -95,7 +95,8 @@ En Medical Contact, nuestro compromiso es brindar apoyo integral tanto a pacient
 ## 2.1.1. Análisis competitivo
 
 ## 2.1.2. Estrategias y tácticas frente a competidores 
-Tras analizar a nuestros competidores en el campo de la gestión de atención médica, hemos identificado tanto sus fortalezas como sus debilidades, lo que nos permite elaborar estrategias efectivas para posicionarnos en el mercado y diferenciarnos de ellos.                                                                                 
+Tras analizar a nuestros competidores en el campo de la gestión de atención médica, hemos identificado tanto sus fortalezas como sus debilidades, lo que nos permite elaborar estrategias efectivas para posicionarnos en el mercado y diferenciarnos de ellos.
+
 **Fortalezas de los competidores**:                                                                                  
 - Agilización de procesos y recompensas al cliente.
 - Sistema de ventas en línea y control del negocio.
@@ -138,20 +139,26 @@ Tras analizar a nuestros competidores en el campo de la gestión de atención m�
 **Nuestras oportunidades**:                                                                                        
 - Crecimiento del público interesado en la aplicación. 
 - Facilidad de comprensión de la aplicación para los usuarios.                                                                               
-**Estrategias para aprovechar las oportunidades**:                                                                              
+**Estrategias para aprovechar las oportunidades**:
+                                                                              
 - Desarrollo de una aplicación intuitiva y fácil de usar. 
-- Campañas publicitarias en redes sociales para captar la atención de nuevos usuarios.                                                     
+- Campañas publicitarias en redes sociales para captar la atención de nuevos usuarios.
+                                                     
 **Tácticas para aprovechar las oportunidades**:
 - Implementación de un diseño minimalista pero atractivo. 
-- Campañas publicitarias dirigidas en redes sociales. 
+- Campañas publicitarias dirigidas en redes sociales.
+ 
 **Amenazas de los competidores**:                                                                            
 - Dependencia exclusiva de dispositivos móviles. 
 - Soporte rápido para regiones específicas. 
-- Problemas de mantenimiento de software.                                                               
+- Problemas de mantenimiento de software.
+                                                               
 **Nuestras amenazas**:                                                                              
-- Tiempo de respuesta del servidor. 
+- Tiempo de respuesta del servidor.
+
 **Estrategias para contrarrestar nuestras amenazas**:                                                                        
-- Desarrollo de un tiempo de respuesta rápido del servidor.                                                                         
+- Desarrollo de un tiempo de respuesta rápido del servidor.
+                                                                         
 **Tácticas para contrarrestar nuestras amenazas**:                                                                        
 - Implementación de servicios en la nube para mejorar la disponibilidad y velocidad de respuesta. 
 - Mantenimientos constantes para optimizar el rendimiento de la aplicación. 
