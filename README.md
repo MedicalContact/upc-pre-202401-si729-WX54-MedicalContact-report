@@ -90,14 +90,15 @@ Los médicos valoran la comunicación eficiente con sus pacientes y ven la consu
 # 1.3. Segmentos objetivo
 En Medical Contact, nuestro compromiso es brindar apoyo integral tanto a pacientes como a profesionales de la salud. Reconocemos las necesidades individuales de cada paciente y entendemos la importancia de una atención médica accesible y centrada en el bienestar del individuo. Por ello, ofrecemos una plataforma diseñada para simplificar el proceso de reserva de citas, seguimiento de historiales médicos y comunicación entre médicos y pacientes. Nos dedicamos a proporcionar herramientas y recursos especializados para médicos comprometidos con la excelencia en la atención médica, permitiéndoles concentrarse en lo más importante: la salud y el bienestar de sus pacientes. 
 ### Capitulo II: Requirements Elicitation & Analysis
-#### 2.1. Competidores
-##### 2.1.1. Analisis Competitivo
-##### 2.1.2. Estrategias y tacticas frente a competidores
-#### 2.2. Entrevistas
-##### 2.2.1. Diseño de entrevistas
+## 2.1. Competidores
+### 2.1.1. Analisis Competitivo
+### 2.1.2. Estrategias y tacticas frente a competidores
+## 2.2. Entrevistas
+### 2.2.1. Diseño de entrevistas
 ### 2.2.2. Registro de entrevistas.
 **Segmento 2:**
 {texto}
+
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas. 
 
