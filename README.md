@@ -101,9 +101,9 @@ En Medical Contact, nuestro compromiso es brindar apoyo integral tanto a pacient
 
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas. 
-<img src="assets/User1.png" alt="Mapa de impacto" style="width:100%;">
+<img src="assets/img/User1.png" alt="User persona 1" style="width:100%;">
 
-<img src="assets/User2.png" alt="Mapa de impacto" style="width:100%;">
+<img src="assets/img/User2.png" alt="User persona 2" style="width:100%;">
 
 ### 2.3.2. User Task Matrix.
 **Estudiantes colegiales o universitarios:** 
