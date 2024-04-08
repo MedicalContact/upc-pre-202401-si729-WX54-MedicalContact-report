@@ -89,3 +89,34 @@ Los médicos valoran la comunicación eficiente con sus pacientes y ven la consu
 
 # 1.3. Segmentos objetivo
 En Medical Contact, nuestro compromiso es brindar apoyo integral tanto a pacientes como a profesionales de la salud. Reconocemos las necesidades individuales de cada paciente y entendemos la importancia de una atención médica accesible y centrada en el bienestar del individuo. Por ello, ofrecemos una plataforma diseñada para simplificar el proceso de reserva de citas, seguimiento de historiales médicos y comunicación entre médicos y pacientes. Nos dedicamos a proporcionar herramientas y recursos especializados para médicos comprometidos con la excelencia en la atención médica, permitiéndoles concentrarse en lo más importante: la salud y el bienestar de sus pacientes. 
+### Capitulo II: Requirements Elicitation & Analysis
+#### 2.1. Competidores
+##### 2.1.1. Analisis Competitivo
+##### 2.1.2. Estrategias y tacticas frente a competidores
+#### 2.2. Entrevistas
+##### 2.2.1. Diseño de entrevistas
+### 2.2.2. Registro de entrevistas.
+**Segmento 2:**
+{texto}
+## 2.3. Needfinding.
+### 2.3.1. User Personas. 
+
+### 2.3.2. User Task Matrix.
+**Estudiantes colegiales o universitarios:** 
+|  |  User 1  | User 2 |
+| --- | ----------- | ------------ | ----------- | ---------- |
+| Es un estudiante universitario.  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#FFC700; font-weight:bold">NO</span>|
+| Conoce alguna plataforma en la cual pueda tener alguna relación sobre gestión médica. | <span style="color:#FFC700; font-weight:bold">NO</span> | <span style="color:#E72929; font-weight:bold">NO</span>        |
+| Esta interesado en reservar citas virtuales y ver recetas médicas de manera eficiente y segura.  | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        |
+| Le interesan temas médicas. | <span style="color:#FFC700; font-weight:bold">SI</span> | <span style="color:#FFC700; font-weight:bold">POCO</span>        |
+
+**Egresados de carreras universitarias y/o tecnicas:** 
+|  |  User 1  | User 2 |
+| --- | ----------- | ------------ | ----------- | ---------- |
+| Ha culminado alguna carrera universitaria y/o tecnica  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span>|
+| Le interesa expandir su conocimiento sobre su campo | <span style="color:#E72929; font-weight:bold">SI</span> | <span style="color:#E72929; font-weight:bold">NO</span>        |
+| Conoce alguna plataforma para tener acceso a una plataforma digital que facilite la conexión entre médicos y pacientes. | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        |
+| Esta interesado en descargar libros, tesis, investigaciones científicas sobre la salud. | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        |
+
+
+### 2.3.3. User Journey Mapping.
