@@ -104,7 +104,7 @@ En Medical Contact, nuestro compromiso es brindar apoyo integral tanto a pacient
 ### 2.3.2. User Task Matrix.
 **Estudiantes colegiales o universitarios:** 
 |  |  User 1  | User 2 |
-| --- | ----------- | ------------ | ----------- | ---------- |
+| --- | ----------- | ------------ |
 | Es un estudiante universitario.  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#FFC700; font-weight:bold">NO</span>|
 | Conoce alguna plataforma en la cual pueda tener alguna relación sobre gestión médica. | <span style="color:#FFC700; font-weight:bold">NO</span> | <span style="color:#E72929; font-weight:bold">NO</span>        |
 | Esta interesado en reservar citas virtuales y ver recetas médicas de manera eficiente y segura.  | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        |
@@ -112,7 +112,7 @@ En Medical Contact, nuestro compromiso es brindar apoyo integral tanto a pacient
 
 **Egresados de carreras universitarias y/o tecnicas:** 
 |  |  User 1  | User 2 |
-| --- | ----------- | ------------ | ----------- | ---------- |
+| --- | ----------- | ------------ |
 | Ha culminado alguna carrera universitaria y/o tecnica  | <span style="color:#90D26D; font-weight:bold">SI</span>   | <span style="color:#90D26D; font-weight:bold">SI</span>|
 | Le interesa expandir su conocimiento sobre su campo | <span style="color:#E72929; font-weight:bold">SI</span> | <span style="color:#E72929; font-weight:bold">NO</span>        |
 | Conoce alguna plataforma para tener acceso a una plataforma digital que facilite la conexión entre médicos y pacientes. | <span style="color:#90D26D; font-weight:bold">SI</span> | <span style="color:#90D26D; font-weight:bold">SI</span>        |
