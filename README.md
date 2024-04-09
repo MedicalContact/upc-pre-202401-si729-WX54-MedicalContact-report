@@ -327,3 +327,12 @@ As Is:
 | Feeling  | Expectativa de encontrar recursos valiosos para su desarrollo profesional | Confianza al identificar material actualizado y confiable | Gratificación al guardar recursos útiles | Motivación para explorar más contenido relacionado con su especialidad |
 
 ## 2.4. Ubiquitous Language.
+```
+Paciente:
+
+Persona la cual busca nuestra aplicacion por medio de consultas e investigaciones, la cual les genera una facilidad de descubrirlo mediante la plataforma, si se llega a registrarse como pacientes de cierta clínica afiliado a nuestra plataforma, lleva descuento especial sobre la suscripcion estandar o premium. En el cual tendra acceso a prioridad y ver la disponibilidad de los doctores a la hora que quieran.
+
+Médico profesional:
+
+Persona que utiliza nuestra aplicación a través de una suscripción estándar o premium, la cual proporciona acceso a funciones avanzadas diseñadas para médicos, como gestión de citas, historiales médicos electrónicos, investigaciones, tesis, documentos internacionales sobre gestión médica traducida al idioma que el ususario desee y herramientas de comunicación segura con los pacientes.
+```
