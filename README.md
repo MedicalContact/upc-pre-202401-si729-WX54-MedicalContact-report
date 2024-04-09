@@ -308,4 +308,22 @@ Why would they invite others?
 
 ### 2.3.5. As-is Scenario Mapping.
 
+**Segmento 1**  
+Escenario: Un estudiante universitario se inscribe en la aplicacion de gestión médica para acceder a registro de citas, historiales médicos y recordatorios.
+As Is:
+| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
+| -------- | --------- | --------- | ------- | --------- |
+| Doing | Completa el registro en la aplicación | Explora la sección de registro de citas | Busca su historial médico | Configura recordatorios para citas médicas |
+| Thinking | "¿Cómo puedo acceder fácilmente a mi historial médico?" | "¿Puedo programar recordatorios para futuras citas?" | "¿Cómo puedo hacer un seguimiento de mis citas anteriores?" | "¿La información en la aplicación es segura y privada?" |
+| Feeling  | Expectativa de obtener una gestión más eficiente de su atención médica | Alivio al encontrar una función de recordatorio de citas | Interés por explorar la información médica disponible | Preocupación por la privacidad y seguridad de sus datos médicos |
+
+**Segmento 2**  
+Escenario: Un egresado médico utiliza la aplicacion para acceder a contenidos de calidad y actualizados con la intención de tener un crecimiento profesional.
+As Is:
+| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
+| -------- | --------- | --------- | ------- | --------- |
+| Doing | Inicia sesión en la aplicación | Explora la sección de recursos educativos | Busca artículos y publicaciones relevantes | Guarda artículos para su lectura posterior |
+| Thinking | "¿Cómo puedo encontrar recursos relevantes para mi área de especialización?" | "¿Los recursos disponibles están actualizados y son confiables?" | "¿Hay alguna función para marcar o guardar contenido importante?" | "¿Puedo acceder a contenido específico basado en mi perfil profesional?" |
+| Feeling  | Expectativa de encontrar recursos valiosos para su desarrollo profesional | Confianza al identificar material actualizado y confiable | Gratificación al guardar recursos útiles | Motivación para explorar más contenido relacionado con su especialidad |
+
 ## 2.4. Ubiquitous Language.
