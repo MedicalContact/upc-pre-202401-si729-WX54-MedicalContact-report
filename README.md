@@ -124,6 +124,19 @@ En Medical Contact, nuestro compromiso es brindar apoyo integral tanto a pacient
 
 
 ### 2.3.3. User Journey Mapping.
+**Registration:**
+Why would they trust us?
+- Los usuarios exploran la reputación de MedicalContact a través de fuentes confiables, como reseñas en línea y testimonios de otros usuarios.
+- Revisan las políticas de privacidad y las medidas de seguridad de la plataforma para asegurarse de que sus datos estén protegidos.
+**Onboarding and first use:**
+How can they feel successful?
+- Porque los usuarios experimentan un proceso de registro intuitivo y sin contratiempos, con claras indicaciones sobre los datos necesarios y los pasos a seguir.
+- Porque los usuarios se sienten capacitados para explorar la plataforma de manera intuitiva, con una interfaz de usuario clara y organizada que les permite acceder rápidamente a la información que necesitan.
+- También se ofrece a los usuarios tutoriales interactivos y guías prácticas para aprovechar al máximo las diversas características de MedicalContact, asegurando que se sientan cómodos y competentes al utilizar la plataforma.
+**Sharing:**
+Why would they invite others?
+- Porque los usuarios descubren el valor de MedicalContact al experimentar beneficios tangibles, como la facilidad de reserva de citas virtuales, la gestión eficiente de historiales médicos y la seguridad en la comunicación con los profesionales de la salud.
+- También recompensan a los usuarios por invitar a amigos y familiares a unirse a MedicalContact, ofreciendo incentivos como descuentos en servicios médicos o créditos en la plataforma.
 
 ### 2.3.4. Empathy Mapping.
 
